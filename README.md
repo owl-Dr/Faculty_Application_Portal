@@ -1,4 +1,3 @@
-
 # Faculty Application Portal
 
 Welcome to the Faculty Application Portal for IIT Patna!
@@ -23,8 +22,8 @@ This project is built using the following technologies:
 
 ## Contributors
 
-- **Harshit Tomar ( Roll No: 2201AI15): Contributed to the backend development, including database management and containerizing the backend.**
-- **Deep Das ( Roll No: 2201AI55): Contributed to the front-end development, including the design and layout of web pages.**
+- **Harshit Tomar (Roll No: 2201AI15):** Contributed to the backend development, including database management and containerizing the backend.
+- **Deep Das (Roll No: 2201AI55):** Contributed to the front-end development, including the design and layout of web pages.
 
 ## Getting Started
 
@@ -46,6 +45,14 @@ To run the project locally, follow these steps:
 
 4. Access the portal in your web browser at `http://localhost`.
 
+## Demo
+
+Watch our demo video [here](https://youtu.be/sV8oCPEERIk).
+
+## Docker Image
+
+Find our Docker image on Docker Hub [here](https://hub.docker.com/repository/docker/doctorowl/projimage/general).
+
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
@@ -53,5 +60,3 @@ Contributions to this project are welcome! If you find any issues or have ideas 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
