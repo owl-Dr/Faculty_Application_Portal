@@ -22,8 +22,8 @@ This project is built using the following technologies:
 
 ## Contributors
 
-- **Harshit Tomar (Roll No: 2201AI15):** Contributed to the backend development, including database management and containerizing the backend.
-- **Deep Das (Roll No: 2201AI55):** Contributed to the front-end development, including the design and layout of web pages.
+- **Harshit Tomar (https://github.com/owl-Dr)** Contributed to the backend development, including database management and containerizing the backend.
+- **Deep Das ():** Contributed to the front-end development, including the design and layout of web pages.
 
 ## Getting Started
 
