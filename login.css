@@ -1,0 +1,92 @@
+body {
+    background-color: #d3d3d3;
+    padding-top: 0px !important;
+}
+
+h3 {
+    /*font-weight: bold;*/
+    color: green;
+    font-family: 'Sintony', sans-serif !important;
+    /*text-align: center;*/
+}
+
+
+
+/* Full-width input fields */
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    /*margin: 0px 0px 0px 0px;*/
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+    /*font-weight: bold;*/
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: auto;
+    padding: 5px 8px;
+    background-color: #f44336;
+}
+
+.loginbtn {
+    width: auto;
+    padding: 5px 8px;
+    background-color: #4CAF50;
+}
+
+.sign_up_btn {
+    width: auto;
+    padding: 5px 8px;
+    background-color: #337AB7;
+    /* enable absolute positioning */
+}
+
+.inner-addon {
+    position: relative;
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 12px 12px 15px 10px;
+    /*pointer-events: none;*/
+    background-color: #0C4F99;
+    color: #FFF;
+    /*margin-right: 50px;*/
+}
+
+/* align icon */
+.left-addon .glyphicon {
+    left: 0px;
+}
+
+.right-addon .glyphicon {
+    right: 0px;
+}
+
+/* add padding  */
+.left-addon input {
+    padding-left: 45px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
