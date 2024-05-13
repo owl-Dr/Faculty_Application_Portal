@@ -23,7 +23,7 @@ This project is built using the following technologies:
 ## Contributors
 
 - **Harshit Tomar (https://github.com/owl-Dr)** Contributed to the backend development, including database management and containerizing the backend.
-- **Deep Das ():** Contributed to the front-end development, including the design and layout of web pages.
+- **Deep Das (https://github.com/Deep1026):** Contributed to the front-end development, including the design and layout of web pages.
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 
 ## Demo
 
-Watch our demo video [here](https://youtu.be/sV8oCPEERIk).
+Watch our demo video [here](https://youtu.be/XD_PMZfV9q0?si=L4qgCAFzCMl0x6gC).
 
 ## Docker Image
 
